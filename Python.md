@@ -5,8 +5,11 @@ ___
 ## Python Datentypen
 `String:` ist eine Zeichenkette die alles zwischen " " anzeigt
 ___
-`integer:` ist eine ganze Zahl, z.B.: 58
+`int:` ist eine ganze Zahl, z.B.: 58
 ___
 `float:` ist eine Dezimalzahl, z.B.: 26.6 (**Immer durch ein `.` getrennt**)
 ___
 `boolean:` ist ein Wahrheitswert, Falsch/False (0) und Wahr/True (1)
+___
+`list:` mit `[ ]` können Daten in einer Liste zusammen gefasst werden
+___

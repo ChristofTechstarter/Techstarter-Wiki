@@ -16,8 +16,8 @@ ___
 - **Merksatz**: Die MAC-Adresse ist wie der Fingerabdruck (Bei jedem menschen einzigartig) eines Geräts im Netzwerk, während die IP-Adresse wie die Postadresse ist, die sich manchmal ändern kann.
 ___
 - `Subnetzmaske`: Eine Subnetzmaske teilt die IP-Adresse in zwei Teile:
-1. **Netzwerkanteil**: Der Teil, der alle Geräte im gleichen Netzwerk identifiziert.
-2. **Hostanteil**: Der Teil, der jedes einzelne Gerät innerhalb dieses Netzwerks unterscheidet.
+- **Netzwerkanteil**: Der Teil, der alle Geräte im gleichen Netzwerk identifiziert.
+- **Hostanteil**: Der Teil, der jedes einzelne Gerät innerhalb dieses Netzwerks unterscheidet.
 - Die Subnetzmaske ist wie ein Netzwerkplan, der entscheidet, wie groß ein Netzwerk ist und wer dazugehört
 - Sie arbeitet immer mit der IP-Adresse zusammen, um zu bestimmen, wer im gleichen Netzwerk "wohnt"
 ___

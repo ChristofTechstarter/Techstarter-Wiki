@@ -10,7 +10,7 @@ ___
 - `IP-Addresse`: Eine Internet Protocol-Adresse ist eine Art digitale Adresse, die Geräten hilft, miteinander im Internet oder in einem Netzwerk zu kommunizieren. Jedes Gerät, das mit einem Netzwerk verbunden ist, wie ein Computer, ein Smartphone oder ein Drucker, braucht eine IP-Adresse, um Daten senden und empfangen zu können.
 ___
 - `MAC-Addresse`: Eine Media Access Control-Adresse ist eine Art serienmäßige Kennung, die jedem Gerät, das sich mit einem Netzwerk verbinden kann, zugewiesen wird. Sie ist einzigartig und wird von dem Hersteller des Geräts festgelegt.
--Sie besteht aus 6 Paaren im hexadezimalsystem, getrennt durch Doppelpunkte oder Bindestriche. <br>
+- Sie besteht aus 6 Paaren im hexadezimalsystem, getrennt durch Doppelpunkte oder Bindestriche. <br>
 00:1A:2B:3C:4D:5E oder 00-1A-2B-3C-4D-5E.
 - Einzigartig: Keine zwei Geräte haben die gleiche MAC-Adresse, selbst wenn sie vom gleichen Hersteller stammen.
 - **Merksatz**: Die MAC-Adresse ist wie der Fingerabdruck (Bei jedem menschen einzigartig) eines Geräts im Netzwerk, während die IP-Adresse wie die Postadresse ist, die sich manchmal ändern kann.
